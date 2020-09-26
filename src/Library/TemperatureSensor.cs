@@ -12,7 +12,7 @@ namespace Observer
         {
             get
             {
-                return this.Observers;
+                return this.observers;
             }
         }
 
